@@ -1,2 +1,1 @@
-# Teamasa
-阿莲专属库
+# Teamasa专属库
